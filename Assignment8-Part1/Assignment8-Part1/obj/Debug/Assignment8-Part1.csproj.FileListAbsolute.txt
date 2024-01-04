@@ -1,0 +1,7 @@
+G:\OneDrive\SimpliLearn\Phase 2\Day 8\Assignment8-Part1\Assignment8-Part1\bin\Debug\Assignment8-Part1.exe.config
+G:\OneDrive\SimpliLearn\Phase 2\Day 8\Assignment8-Part1\Assignment8-Part1\bin\Debug\Assignment8-Part1.exe
+G:\OneDrive\SimpliLearn\Phase 2\Day 8\Assignment8-Part1\Assignment8-Part1\bin\Debug\Assignment8-Part1.pdb
+G:\OneDrive\SimpliLearn\Phase 2\Day 8\Assignment8-Part1\Assignment8-Part1\obj\Debug\Assignment8-Part1.csproj.AssemblyReference.cache
+G:\OneDrive\SimpliLearn\Phase 2\Day 8\Assignment8-Part1\Assignment8-Part1\obj\Debug\Assignment8-Part1.csproj.CoreCompileInputs.cache
+G:\OneDrive\SimpliLearn\Phase 2\Day 8\Assignment8-Part1\Assignment8-Part1\obj\Debug\Assignment8-Part1.exe
+G:\OneDrive\SimpliLearn\Phase 2\Day 8\Assignment8-Part1\Assignment8-Part1\obj\Debug\Assignment8-Part1.pdb
